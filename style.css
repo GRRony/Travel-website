@@ -1,0 +1,13 @@
+.cards-btn{
+    text-decoration: none;
+    margin-top: 2rem;
+    border: 2px solid blue;
+    display: block;
+    width: 40%;
+ 
+    text-align: center;
+    color: white ;
+    background-color: red;
+    border-radius: 2px;
+    
+}
